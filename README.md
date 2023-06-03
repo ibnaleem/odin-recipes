@@ -10,7 +10,7 @@ The second iteration focuses on creating a recipe page template. A new directory
 
 The `index.html` file is updated to include links to the recipe pages. Each recipe link is added under the ["Odin Recipes"](https://www.theodinproject.com/lessons/foundations-recipes) heading using the `<a>` tag.
 
-Iteration 3: Recipe Page Content
+## Iteration 3: Recipe Page Content
 In this iteration, the recipe pages are enhanced with more content. Each recipe page should include the following:
 
 - An image of the finished dish.

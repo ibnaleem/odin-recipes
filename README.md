@@ -16,7 +16,7 @@ In this iteration, the recipe pages are enhanced with more content. Each recipe 
 - [An image of the finished dish.](https://github.com/ibnaleem/odin-recipes/commit/d18a34e91c1e2bf9a8bdd155fe511ddab9ec4083)
 - [A "Description" heading](https://github.com/ibnaleem/odin-recipes/commit/af92ebb26c0c93ac7f08a67acb87da81a52e33f6) followed by [a paragraph or two describing the recipe.](https://github.com/ibnaleem/odin-recipes/commit/d575be40a29177c8c172a017e5f6a8328878e20c)
 - [An "Ingredients" heading](https://github.com/ibnaleem/odin-recipes/commit/466a081810c44aeea866f186968eb7bd471d3ae5) followed by [an unordered list of the ingredients needed for the recipe.](https://github.com/ibnaleem/odin-recipes/commit/7dd630276ed3e438c4f8db21a1424027297b4102)
-- [A "Steps"](https://github.com/ibnaleem/odin-recipes/commit/6dc95f39c40f7fee51a09829c458ec014681fba6) heading followed by [an ordered list of the steps needed to make the dish.](https://github.com/ibnaleem/odin-recipes/commit/562165b271b9450519374dda4de292f8e012878f)
+- [A "Steps" heading](https://github.com/ibnaleem/odin-recipes/commit/6dc95f39c40f7fee51a09829c458ec014681fba6) followed by [an ordered list of the steps needed to make the dish.](https://github.com/ibnaleem/odin-recipes/commit/562165b271b9450519374dda4de292f8e012878f)
 
 ## Iteration 4: Add More Recipes
 The final iteration involves adding two more recipes to the collection. These recipes should follow the same page structure as the existing recipe page. The [`index.html`](https://github.com/ibnaleem/odin-recipes/blob/main/index.html) file should be updated to include links to the newly added recipes. Consider using an unordered list to organize the recipe links and prevent them from appearing on a single line.

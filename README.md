@@ -23,11 +23,11 @@ The final iteration involves adding two more recipes to the collection. These re
 
 Once the project is completed, the following skills will be demonstrated:
 
-- Creating a basic HTML structure.
-- Linking between pages using HTML.
-- Adding and displaying images.
-- Structuring content with headings and paragraphs.
-- Creating lists for ingredients and steps.
-- Organizing content within directories.
+- [Creating a basic HTML structure.](https://github.com/ibnaleem/odin-recipes/commit/1fce40b1b7149d0929e958583de46fc167339021)
+- [Linking between pages using HTML.](https://github.com/ibnaleem/odin-recipes/commit/99e5b85be432e0c0b64dea768530c223b07569ba)
+- [Adding and displaying images.](https://github.com/ibnaleem/odin-recipes/commit/d18a34e91c1e2bf9a8bdd155fe511ddab9ec4083)
+- Structuring content with [headings](https://github.com/ibnaleem/odin-recipes/commit/6bae072a8beb572b67e737bd0acfe4f93639453e) and [paragraphs.](https://github.com/ibnaleem/odin-recipes/commit/d575be40a29177c8c172a017e5f6a8328878e20c)
+- Creating lists for [ingredients](https://github.com/ibnaleem/odin-recipes/commit/7dd630276ed3e438c4f8db21a1424027297b4102) and [steps.](https://github.com/ibnaleem/odin-recipes/commit/562165b271b9450519374dda4de292f8e012878f)
+- [Organizing content within directories.](https://github.com/ibnaleem/odin-recipes/commit/6f6bd2bce72046346e3a7e108ead51deff082b65)
 
 This project provides a foundation for building a more advanced recipe collection, with the possibility of adding additional features such as search functionality, responsive design, and interactive elements.
